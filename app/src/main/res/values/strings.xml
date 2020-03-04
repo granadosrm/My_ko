@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="dato1">ingrese dato 1</string>
+    <string name="buton1">siguiente</string>
+    <string name="dato2">ingrese dato2</string>
+    <string name="boton2">siguiente</string>
+    <string name="dato3">ingrese dato 3</string>
+    <string name="boton3">siguiente</string>
+    <string name="txt">resultado suma</string>
+    <string name="txt2">resultado multi</string>
+</resources>
